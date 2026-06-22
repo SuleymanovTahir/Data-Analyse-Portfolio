@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+
+# Runtime artifacts
+*.log
+
+# Local workspace notes/tools
+CHANGELOG.txt
+create_portfolio.py
