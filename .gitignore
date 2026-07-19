@@ -16,12 +16,3 @@ venv/
 
 # Runtime artifacts
 *.log
-
-# Local workspace notes/tools
-CHANGELOG.txt
-create_portfolio.py
-
-# Drafts and temporary files
-*copy*
-*draw*
-~$*
